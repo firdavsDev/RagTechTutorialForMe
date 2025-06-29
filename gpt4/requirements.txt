@@ -1,0 +1,8 @@
+deep-translator==1.11.4
+faiss-cpu==1.11.0
+ipywidgets==8.1.7
+langchain==0.1.0
+openai==0.28.0
+PyMuPDF==1.26.1
+sentence-transformers==4.1.0
+tiktoken==0.5.2
