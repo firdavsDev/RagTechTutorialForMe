@@ -30,3 +30,10 @@ Veb-sayt va 10,000+ PDF/DOC hujjatlar asosida intelligent chatbot yaratish.
                     │  (10,000+ files)    │
                     └─────────────────────┘
 ```
+
+## 🛠 Ishlatish
+
+```bash
+git clone https://github.com/firdavsDev/RagTechTutorialForMe.git
+cd RagTechTutorialForMe
+```
