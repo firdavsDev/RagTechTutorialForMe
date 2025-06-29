@@ -1,5 +1,5 @@
 
-# RagChatBot
+# RAG texnologiyasi asosida ishlaydigan chatbot
 
 ### Loyiha maqsadi
 Veb-sayt va 10,000+ PDF/DOC hujjatlar asosida intelligent chatbot yaratish.
@@ -36,4 +36,5 @@ Veb-sayt va 10,000+ PDF/DOC hujjatlar asosida intelligent chatbot yaratish.
 ```bash
 git clone https://github.com/firdavsDev/RagTechTutorialForMe.git
 cd RagTechTutorialForMe
+pip install -r requirements.txt
 ```
